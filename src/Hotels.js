@@ -34,7 +34,7 @@ class Hotel extends Component {
   render() {
     return (
       <div>
-        <h2>uibf</h2>
+        <h2>hotels</h2>
         <SearchBar hotels={this.state.hotels} />
       </div>
     );
