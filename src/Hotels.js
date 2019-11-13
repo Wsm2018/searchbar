@@ -34,6 +34,7 @@ class Hotel extends Component {
   render() {
     return (
       <div>
+        <h2>Hotels</h2>
         <SearchBar hotels={this.state.hotels} />
       </div>
     );
